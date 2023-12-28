@@ -1,0 +1,12 @@
+C:\Users\amori\Desktop\Repos\C43_Linq_Demo\LinqLibrary\bin\Debug\net6.0\LinqLibrary.deps.json
+C:\Users\amori\Desktop\Repos\C43_Linq_Demo\LinqLibrary\bin\Debug\net6.0\LinqLibrary.dll
+C:\Users\amori\Desktop\Repos\C43_Linq_Demo\LinqLibrary\bin\Debug\net6.0\LinqLibrary.pdb
+C:\Users\amori\Desktop\Repos\C43_Linq_Demo\LinqLibrary\obj\Debug\net6.0\LinqLibrary.csproj.AssemblyReference.cache
+C:\Users\amori\Desktop\Repos\C43_Linq_Demo\LinqLibrary\obj\Debug\net6.0\LinqLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amori\Desktop\Repos\C43_Linq_Demo\LinqLibrary\obj\Debug\net6.0\LinqLibrary.AssemblyInfoInputs.cache
+C:\Users\amori\Desktop\Repos\C43_Linq_Demo\LinqLibrary\obj\Debug\net6.0\LinqLibrary.AssemblyInfo.cs
+C:\Users\amori\Desktop\Repos\C43_Linq_Demo\LinqLibrary\obj\Debug\net6.0\LinqLibrary.csproj.CoreCompileInputs.cache
+C:\Users\amori\Desktop\Repos\C43_Linq_Demo\LinqLibrary\obj\Debug\net6.0\LinqLibrary.dll
+C:\Users\amori\Desktop\Repos\C43_Linq_Demo\LinqLibrary\obj\Debug\net6.0\refint\LinqLibrary.dll
+C:\Users\amori\Desktop\Repos\C43_Linq_Demo\LinqLibrary\obj\Debug\net6.0\LinqLibrary.pdb
+C:\Users\amori\Desktop\Repos\C43_Linq_Demo\LinqLibrary\obj\Debug\net6.0\ref\LinqLibrary.dll
